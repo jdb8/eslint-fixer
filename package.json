@@ -1,0 +1,10 @@
+{
+  "name": "eslint-fixer",
+  "version": "0.1.0",
+  "description": "A wrapper for eslint's --fix functionality",
+  "main": "index.js",
+  "author": "Joe Bateson",
+  "dependencies": {
+    "eslint": "~1.9.0"
+  }
+}
